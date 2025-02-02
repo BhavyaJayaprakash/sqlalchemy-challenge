@@ -14,8 +14,11 @@ Flask API
 The project includes the following files:
 
 hawaii_measurements.csv - Contains collected from weather station. (e.g., station, date, prcp, tobs).
+
 hawaii_stations.csv - Contains station details (e.g., station, name, latitude, longitude).
+
 hawaii.sqlite.db - Contains an SQLite database for Flask routes.
+
 
 ## Data Visualizations
 
